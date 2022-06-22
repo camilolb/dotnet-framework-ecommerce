@@ -1,0 +1,12 @@
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/GenerateModel/bin/Debug/netcoreapp3.1/GenerateModel.deps.json
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/GenerateModel/bin/Debug/netcoreapp3.1/GenerateModel.runtimeconfig.json
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/GenerateModel/bin/Debug/netcoreapp3.1/GenerateModel.runtimeconfig.dev.json
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/GenerateModel/bin/Debug/netcoreapp3.1/GenerateModel.dll
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/GenerateModel/bin/Debug/netcoreapp3.1/GenerateModel.pdb
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/GenerateModel/obj/Debug/netcoreapp3.1/GenerateModel.csprojAssemblyReference.cache
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/GenerateModel/obj/Debug/netcoreapp3.1/GenerateModel.AssemblyInfoInputs.cache
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/GenerateModel/obj/Debug/netcoreapp3.1/GenerateModel.AssemblyInfo.cs
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/GenerateModel/obj/Debug/netcoreapp3.1/GenerateModel.csproj.CoreCompileInputs.cache
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/GenerateModel/obj/Debug/netcoreapp3.1/GenerateModel.dll
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/GenerateModel/obj/Debug/netcoreapp3.1/GenerateModel.pdb
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/GenerateModel/obj/Debug/netcoreapp3.1/GenerateModel.genruntimeconfig.cache

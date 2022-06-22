@@ -1,0 +1,66 @@
+﻿<Properties StartupConfiguration="{A3A13913-E558-40E0-8D30-3EF3B5A53B60}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PruebaTecnica.Core/Services/SecurityService.cs">
+    <Files>
+      <File FileName="PruebaTecnica.Core/Entities/Departament.cs" Line="12" Column="1" />
+      <File FileName="PruebaTecnica.Api/Controllers/BuildController.cs" Line="44" Column="35" />
+      <File FileName="PruebaTecnica.Api/appsettings.json" Line="3" Column="6" />
+      <File FileName="PruebaTecnica.Api/Controllers/SecurityController.cs" Line="62" Column="35" />
+      <File FileName="PruebaTecnica.Core/Services/SecurityService.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PruebaTecnica" expanded="True">
+            <Node name="1- Core" expanded="True">
+              <Node name="PruebaTecnica.Core" expanded="True">
+                <Node name="Entities" expanded="True" />
+                <Node name="Services" expanded="True">
+                  <Node name="SecurityService.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="2- Infraestructura" expanded="True">
+              <Node name="Pruebatecnica.Infraestructura" expanded="True" />
+            </Node>
+            <Node name="3 - Api" expanded="True">
+              <Node name="PruebaTecnica.Api" expanded="True">
+                <Node name="Controllers" expanded="True" />
+                <Node name="Responses" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="4- UnitTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="PruebaTecnica" expanded="True">
+            <Node name="4- UnitTest" expanded="True">
+              <Node name="UnitTest" expanded="True">
+                <Node name="UnitTest" expanded="True">
+                  <Node name="BuildServiceTest" expanded="True" />
+                  <Node name="DepartamentServiceTest" expanded="True" />
+                  <Node name="OwnerServiceTest" expanded="True" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>PruebaTecnica.Api/PruebaTecnica.Web/PruebaTecnica.Web.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.3_220-_220Api.PruebaTecnica.Api PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/camilo/Desktop/Weelo/Back/PruebaTecnica.Api/Controllers/PostController.cs" relfile="PruebaTecnica.Api/Controllers/PostController.cs" line="30" column="1" />
+      <Breakpoint file="/Users/camilo/Desktop/Weelo/Back/UnitTest/BuildServiceTest.cs" relfile="UnitTest/BuildServiceTest.cs" line="29" column="1" />
+      <Breakpoint file="/Users/camilo/Desktop/Weelo/Back/PruebaTecnica.Core/Services/DepartamentService.cs" relfile="PruebaTecnica.Core/Services/DepartamentService.cs" line="97" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

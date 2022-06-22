@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/clopez/Downloads/WeeloPrueba-t-cnica-master/Back/Pruebatecnica.Infraestructura/Pruebatecnica.Infraestructura.csproj": {}
+  },
+  "projects": {
+    "/Users/clopez/Downloads/WeeloPrueba-t-cnica-master/Back/PruebaTecnica.Core/PruebaTecnica.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/clopez/Downloads/WeeloPrueba-t-cnica-master/Back/PruebaTecnica.Core/PruebaTecnica.Core.csproj",
+        "projectName": "PruebaTecnica.Core",
+        "projectPath": "/Users/clopez/Downloads/WeeloPrueba-t-cnica-master/Back/PruebaTecnica.Core/PruebaTecnica.Core.csproj",
+        "packagesPath": "/Users/clopez/.nuget/packages/",
+        "outputPath": "/Users/clopez/Downloads/WeeloPrueba-t-cnica-master/Back/PruebaTecnica.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/clopez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.11.1, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/clopez/Downloads/WeeloPrueba-t-cnica-master/Back/Pruebatecnica.Infraestructura/Pruebatecnica.Infraestructura.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/clopez/Downloads/WeeloPrueba-t-cnica-master/Back/Pruebatecnica.Infraestructura/Pruebatecnica.Infraestructura.csproj",
+        "projectName": "Pruebatecnica.Infraestructura",
+        "projectPath": "/Users/clopez/Downloads/WeeloPrueba-t-cnica-master/Back/Pruebatecnica.Infraestructura/Pruebatecnica.Infraestructura.csproj",
+        "packagesPath": "/Users/clopez/.nuget/packages/",
+        "outputPath": "/Users/clopez/Downloads/WeeloPrueba-t-cnica-master/Back/Pruebatecnica.Infraestructura/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/clopez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/clopez/Downloads/WeeloPrueba-t-cnica-master/Back/PruebaTecnica.Core/PruebaTecnica.Core.csproj": {
+                "projectPath": "/Users/clopez/Downloads/WeeloPrueba-t-cnica-master/Back/PruebaTecnica.Core/PruebaTecnica.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.6.3, )"
+            },
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

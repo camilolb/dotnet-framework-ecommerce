@@ -1,0 +1,48 @@
+/Users/camilo/Desktop/Desarrollos/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/bin/Debug/netstandard2.1/Pruebatecnica.Infraestructura.deps.json
+/Users/camilo/Desktop/Desarrollos/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/bin/Debug/netstandard2.1/Pruebatecnica.Infraestructura.dll
+/Users/camilo/Desktop/Desarrollos/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/bin/Debug/netstandard2.1/Pruebatecnica.Infraestructura.pdb
+/Users/camilo/Desktop/Desarrollos/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/bin/Debug/netstandard2.1/PruebaTecnica.Core.dll
+/Users/camilo/Desktop/Desarrollos/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/bin/Debug/netstandard2.1/PruebaTecnica.Core.pdb
+/Users/camilo/Desktop/Desarrollos/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.csprojAssemblyReference.cache
+/Users/camilo/Desktop/Desarrollos/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.AssemblyInfoInputs.cache
+/Users/camilo/Desktop/Desarrollos/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.AssemblyInfo.cs
+/Users/camilo/Desktop/Desarrollos/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.csproj.CoreCompileInputs.cache
+/Users/camilo/Desktop/Desarrollos/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.csproj.CopyComplete
+/Users/camilo/Desktop/Desarrollos/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.dll
+/Users/camilo/Desktop/Desarrollos/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.pdb
+C:/Users/Julian Bedoya/Desktop/Cristian/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/bin/Debug/netstandard2.1/Pruebatecnica.Infraestructura.deps.json
+C:/Users/Julian Bedoya/Desktop/Cristian/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/bin/Debug/netstandard2.1/Pruebatecnica.Infraestructura.dll
+C:/Users/Julian Bedoya/Desktop/Cristian/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/bin/Debug/netstandard2.1/Pruebatecnica.Infraestructura.pdb
+C:/Users/Julian Bedoya/Desktop/Cristian/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/bin/Debug/netstandard2.1/PruebaTecnica.Core.dll
+C:/Users/Julian Bedoya/Desktop/Cristian/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/bin/Debug/netstandard2.1/PruebaTecnica.Core.pdb
+C:/Users/Julian Bedoya/Desktop/Cristian/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.csprojAssemblyReference.cache
+C:/Users/Julian Bedoya/Desktop/Cristian/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.AssemblyInfoInputs.cache
+C:/Users/Julian Bedoya/Desktop/Cristian/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.AssemblyInfo.cs
+C:/Users/Julian Bedoya/Desktop/Cristian/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.csproj.CoreCompileInputs.cache
+C:/Users/Julian Bedoya/Desktop/Cristian/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.csproj.CopyComplete
+C:/Users/Julian Bedoya/Desktop/Cristian/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.dll
+C:/Users/Julian Bedoya/Desktop/Cristian/ArquitecturaLimpia/PruebaTecnica/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.pdb
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/Pruebatecnica.Infraestructura/bin/Debug/netstandard2.1/Pruebatecnica.Infraestructura.deps.json
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/Pruebatecnica.Infraestructura/bin/Debug/netstandard2.1/Pruebatecnica.Infraestructura.dll
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/Pruebatecnica.Infraestructura/bin/Debug/netstandard2.1/Pruebatecnica.Infraestructura.pdb
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/Pruebatecnica.Infraestructura/bin/Debug/netstandard2.1/PruebaTecnica.Core.dll
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/Pruebatecnica.Infraestructura/bin/Debug/netstandard2.1/PruebaTecnica.Core.pdb
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.csprojAssemblyReference.cache
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.AssemblyInfoInputs.cache
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.AssemblyInfo.cs
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.csproj.CoreCompileInputs.cache
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.csproj.CopyComplete
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.dll
+/Users/camilo/Desktop/Desarrollos/PruebaTenica.GloboStudio/PruebaTecnica/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.pdb
+/Users/camilo/Desktop/Weelo/Back/Pruebatecnica.Infraestructura/bin/Debug/netstandard2.1/Pruebatecnica.Infraestructura.deps.json
+/Users/camilo/Desktop/Weelo/Back/Pruebatecnica.Infraestructura/bin/Debug/netstandard2.1/Pruebatecnica.Infraestructura.dll
+/Users/camilo/Desktop/Weelo/Back/Pruebatecnica.Infraestructura/bin/Debug/netstandard2.1/Pruebatecnica.Infraestructura.pdb
+/Users/camilo/Desktop/Weelo/Back/Pruebatecnica.Infraestructura/bin/Debug/netstandard2.1/PruebaTecnica.Core.dll
+/Users/camilo/Desktop/Weelo/Back/Pruebatecnica.Infraestructura/bin/Debug/netstandard2.1/PruebaTecnica.Core.pdb
+/Users/camilo/Desktop/Weelo/Back/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.csprojAssemblyReference.cache
+/Users/camilo/Desktop/Weelo/Back/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.AssemblyInfoInputs.cache
+/Users/camilo/Desktop/Weelo/Back/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.AssemblyInfo.cs
+/Users/camilo/Desktop/Weelo/Back/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.csproj.CoreCompileInputs.cache
+/Users/camilo/Desktop/Weelo/Back/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.csproj.CopyComplete
+/Users/camilo/Desktop/Weelo/Back/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.dll
+/Users/camilo/Desktop/Weelo/Back/Pruebatecnica.Infraestructura/obj/Debug/netstandard2.1/Pruebatecnica.Infraestructura.pdb

@@ -1,0 +1,12 @@
+/Users/camilo/Desktop/Weelo/Back/generate/bin/Debug/netcoreapp3.1/generate.deps.json
+/Users/camilo/Desktop/Weelo/Back/generate/bin/Debug/netcoreapp3.1/generate.dll
+/Users/camilo/Desktop/Weelo/Back/generate/bin/Debug/netcoreapp3.1/generate.pdb
+/Users/camilo/Desktop/Weelo/Back/generate/obj/Debug/netcoreapp3.1/generate.csprojAssemblyReference.cache
+/Users/camilo/Desktop/Weelo/Back/generate/obj/Debug/netcoreapp3.1/generate.AssemblyInfoInputs.cache
+/Users/camilo/Desktop/Weelo/Back/generate/obj/Debug/netcoreapp3.1/generate.AssemblyInfo.cs
+/Users/camilo/Desktop/Weelo/Back/generate/obj/Debug/netcoreapp3.1/generate.csproj.CoreCompileInputs.cache
+/Users/camilo/Desktop/Weelo/Back/generate/obj/Debug/netcoreapp3.1/generate.dll
+/Users/camilo/Desktop/Weelo/Back/generate/obj/Debug/netcoreapp3.1/generate.pdb
+/Users/camilo/Desktop/Weelo/Back/generate/bin/Debug/netcoreapp3.1/generate.runtimeconfig.json
+/Users/camilo/Desktop/Weelo/Back/generate/bin/Debug/netcoreapp3.1/generate.runtimeconfig.dev.json
+/Users/camilo/Desktop/Weelo/Back/generate/obj/Debug/netcoreapp3.1/generate.genruntimeconfig.cache
